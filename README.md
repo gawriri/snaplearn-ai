@@ -42,26 +42,6 @@ Uvicorn
 AI / ML
 BLIP Image Understanding Model
 Hugging Face Transformers
-Project Structure
-SNAPLEARN_AI/
-│
-├── backend/
-│   ├── detector.py
-│   ├── main.py
-│   ├── requirements.txt
-│   ├── users.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── App.jsx
-│   │   ├── main.jsx
-│   │
-│   ├── package.json
-│   ├── vite.config.js
-│
-└── README.md
 
 
 Backend runs on:
